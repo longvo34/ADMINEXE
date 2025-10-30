@@ -1,0 +1,1 @@
+export default function ChatDetail() { return <h2>Chi tiết chat</h2>; }
